@@ -5,7 +5,7 @@ Projects cover fundamental networking concepts such as TCP/UDP sockets, congesti
 
 ---
 
-## 📌 Projects  
+## Projects  
 ### 1. **Simple Messenger (Phase 1)**  
 - A multi-client chat server with GUI, supporting group and private messaging.  
 - **Files**:  
@@ -25,7 +25,7 @@ Projects cover fundamental networking concepts such as TCP/UDP sockets, congesti
 
 ---
 
-## 🛠️ Technologies  
+## Technologies  
 - Python (`socket`, `threading`, `tkinter`)  
 - Wireshark for packet analysis  
 - Theoretical concepts: TCP Reno, DNS, DHCP  
